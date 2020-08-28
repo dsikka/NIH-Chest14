@@ -1,8 +1,8 @@
 ```mermaid
 graph TD
 
-# Step # refer to `data_merge_steps.md`
-# Functions in `data_ingestion.py`
+Step # refer to `data_merge_steps.md`
+Functions in `data_ingestion.py`
 
 title[<u>Data Ingestion Pipeline</u>]
 title -->A 
